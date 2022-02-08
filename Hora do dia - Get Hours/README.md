@@ -1,0 +1,1 @@
+Projetos básicos de JavaScript para praticar a linguagem
